@@ -1,0 +1,17 @@
+<utilizatori>
+  <utilizator>
+    <cont>Mircea</cont>
+    <parola>sport</parola>
+    <rol>dieteticean</rol>
+  </utilizator>
+  <utilizator>
+    <cont>Andrei</cont>
+    <parola>alergare</parola>
+    <rol>admin</rol>
+  </utilizator>
+  <utilizator>
+    <cont>Valentin</cont>
+    <parola>sanatate</parola>
+    <rol>secretar</rol>
+  </utilizator>
+</utilizatori>

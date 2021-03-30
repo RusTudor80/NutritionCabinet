@@ -1,0 +1,57 @@
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\Sabloane arhitecturale\MVP\MVP\bin\Debug\MVP.exe.config
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\Sabloane arhitecturale\MVP\MVP\bin\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\Sabloane arhitecturale\MVP\MVP\bin\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\Sabloane arhitecturale\MVP\MVP\obj\Debug\MVP.View.DreptunghiView.resources
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\Sabloane arhitecturale\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\Sabloane arhitecturale\MVP\MVP\obj\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\Sabloane arhitecturale\MVP\MVP\obj\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\bin\Debug\MVP.exe.config
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\obj\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\obj\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\bin\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\bin\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\obj\Debug\MVP.View.DreptunghiView.resources
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Inginerie software\CURS\de incarcat\Exemplu curs 9-10\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\bin\Debug\MVP.exe.config
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\obj\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\obj\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\bin\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\bin\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\obj\Debug\MVP.View.DreptunghiView.resources
+E:\ACTIVITATE DIDACTICA\CURSURI\2019-2020\Semestrul 2\Proiectare software\Laborator\laborator 3\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\bin\Debug\MVP.exe.config
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\obj\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\obj\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\bin\Debug\MVP.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\bin\Debug\MVP.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\obj\Debug\MVP.View.DreptunghiView.resources
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\obj\Debug\MVP.csprojAssemblyReference.cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\PS\laborator 3\MVP\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+C:\Users\rustu\Downloads\MVP\MVP\MVP\obj\Debug\MVP.exe
+C:\Users\rustu\Downloads\MVP\MVP\MVP\obj\Debug\MVP.pdb
+C:\Users\rustu\Downloads\MVP\MVP\MVP\bin\Debug\MVP.exe.config
+C:\Users\rustu\Downloads\MVP\MVP\MVP\bin\Debug\MVP.exe
+C:\Users\rustu\Downloads\MVP\MVP\MVP\bin\Debug\MVP.pdb
+C:\Users\rustu\Downloads\MVP\MVP\MVP\obj\Debug\MVP.csprojAssemblyReference.cache
+C:\Users\rustu\Downloads\MVP\MVP\MVP\obj\Debug\MVP.View.DreptunghiView.resources
+C:\Users\rustu\Downloads\MVP\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
+C:\Users\rustu\Downloads\MVP\MVP\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.csprojAssemblyReference.cache
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.exe
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.pdb
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\bin\Debug\MVP.exe.config
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\bin\Debug\MVP.exe
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\bin\Debug\MVP.pdb
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.Properties.Resources.resources
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.View.GUIAutentificare.resources
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.View.GUIDieteticean.resources
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.csproj.CopyComplete
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.View.GUIAdministrator.resources
+C:\Users\rustu\OneDrive\Desktop\An3_sem2\PS\tema1 Visual studio\MVP\MVP\obj\Debug\MVP.View.GUISecretar.resources
